@@ -1,0 +1,13 @@
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+CMD
+uv init
+uv venv
+activate (.venv\Scripts\activate)
+uv add -r requirements.txt
+uv pip list
+https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0
+
+
+https://www.youtube.com/watch?v=yC36gN-rqjo&list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL   Agentic AI and Lang Graphs
+
+https://github.com/Yash-Kavaiya?tab=repositories

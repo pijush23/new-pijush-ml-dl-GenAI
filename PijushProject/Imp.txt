@@ -1,0 +1,30 @@
+https://platform.claude.com/settings/keys
+https://app.link.com/settings
+https://claude.ai/new
+https://claude.ai/new
+Hugging Face :- pijush23@gmail.com / 90@Rivan91@Rivan
+
+https://console.anthropic.com/settings/workspaces/default/keys
+https://console.anthropic.com/
+https://console.anthropic.com/docs/en/home
+https://console.anthropic.com/docs/en/build-with-claude/search-results
+
+
+Google Gemini API keys
+https://aistudio.google.com/api-keys
+
+AIzaSyDLVso0t-onjKVaBKxaT9BXjpTZn9WWAAM
+
+
+Hugging Face
+
+API= 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
+
+
+Run the Streamlit application
+> streamlit run app.py
+
+https://docs.langchain.com/oss/python/integrations/retrievers
+
+https://github.com/atulkahatecdac/agenticai
+https://www.linkedin.com/in/atulkahate/

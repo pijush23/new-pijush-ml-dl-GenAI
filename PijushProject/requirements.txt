@@ -1,0 +1,46 @@
+# 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
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-experimental
+
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+torch
+torchvision
+torchaudio
+streamlit
+streamlit-jupyter
+sentence-transformers
+pydantic
+pydantic[email]
+langchain-community
+grandalf
+pypdf
+manim
+fastmcp
+uv
+dotenv
